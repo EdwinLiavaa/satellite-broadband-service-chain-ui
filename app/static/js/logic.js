@@ -1,3 +1,4 @@
+
 Moralis.initialize(""); // Application id from moralis.io
 Moralis.serverURL = ""; //Server url from moralis.io
 
@@ -17,9 +18,11 @@ async function login(){
   document.getElementById('submit').setAttribute("disabled", null);
   document.getElementById('username').setAttribute("disabled", null);
   document.getElementById('useremail').setAttribute("disabled", null);
+  document.getElementById('userrole').setAttribute("disabled", null);
   Moralis.Web3.authenticate().then(function (user) {
       user.set("name",document.getElementById('username').value);
       user.set("email",document.getElementById('useremail').value);
+      user.set("role",document.getElementById('userrole').value);
       user.save();
       document.getElementById("upload").removeAttribute("disabled");
       document.getElementById("file").removeAttribute("disabled");
