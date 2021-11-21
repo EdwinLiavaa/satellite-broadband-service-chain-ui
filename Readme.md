@@ -1,6 +1,6 @@
 # Mint Satellite Broadband
 1. Forked from https://github.com/DanielMoralisSamples/19_MINTNFT
-2. I belive the future of connecting the underserved communities with  broadband service will be in the form of dynamic NFTs.
+2. I belive the future of signing up and serving the underserved communities with telco broadband service will be in the form of dynamic NFTs.
 3. Have only scratched the surface of what I have in mind for this app as the front end for the Satellite Broadband Service Chain.
 4. This is a beta version, not for production.
    - Contracts environment variables are hard coded.
