@@ -11,7 +11,6 @@
    - Moralis
    - Opensea
 5. More to come in the next beta version before the production version.
-   - Brownie
    - React Moralis
    - Header component 
    - Main component
