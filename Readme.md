@@ -1,4 +1,7 @@
 # Mint Satellite Broadband
+
+## This is the world's first direct to consumer marketplace for satellite broadand solutions and for asset-backed dynamic NFTs.
+
 1. Forked from https://github.com/DanielMoralisSamples/19_MINTNFT
 2. I belive the future of signing up and serving the underserved communities with telco broadband service will be in the form of dynamic NFTs.
 3. Have only scratched the surface of what I have in mind for this app as the front end for the Satellite Broadband Service Chain.
