@@ -47,7 +47,7 @@ parsimonious==0.8.1
 pathspec==0.9.0
 pluggy==0.13.1
 prompt-toolkit==3.0.19
-protobuf==3.17.3
+protobuf==4.22.0
 psutil==5.8.0
 py==1.10.0
 py-solc-ast==1.2.9
