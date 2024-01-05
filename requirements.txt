@@ -52,7 +52,7 @@ psutil==5.8.0
 py==1.10.0
 py-solc-ast==1.2.9
 py-solc-x==1.1.0
-pycryptodome==3.10.1
+pycryptodome==3.19.1
 Pygments==2.15.0
 pygments-lexer-solidity==0.7.0
 PyJWT==2.6.0
