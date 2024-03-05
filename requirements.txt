@@ -13,7 +13,7 @@ click==8.1.4
 cytoolz==0.11.0
 dataclassy==0.10.4
 eip712==0.1.0
-eth-abi==4.2.0
+eth-abi==5.0.1
 eth-account==0.8.0
 eth-brownie==1.16.0
 eth-event==1.2.3
