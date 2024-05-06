@@ -74,7 +74,7 @@ sortedcontainers==2.4.0
 toml==0.10.2
 tomli==1.0.4
 toolz==0.12.0
-tqdm==4.61.2
+tqdm==4.66.4
 typing-extensions==3.10.0.0
 urllib3==1.26.18
 varint==1.0.2
