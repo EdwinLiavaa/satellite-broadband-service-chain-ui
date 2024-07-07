@@ -79,7 +79,7 @@ typing-extensions==3.10.0.0
 urllib3==1.26.19
 varint==1.0.2
 vvm==0.1.0
-vyper==0.3.10
+vyper==0.4.0
 wcwidth==0.2.5
 web3==6.2.0
 websockets==9.1
