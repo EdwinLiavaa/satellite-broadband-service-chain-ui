@@ -2,7 +2,7 @@ aiohttp==3.9.4
 appdirs==1.4.4
 asttokens==2.0.4
 async-timeout==3.0.1
-attrs==21.2.0
+attrs==24.1.0
 base58==2.1.0
 bitarray==1.2.2
 black==24.3.0
