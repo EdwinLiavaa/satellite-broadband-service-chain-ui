@@ -66,7 +66,7 @@ python-dotenv==0.16.0
 pythx==1.7.3
 PyYAML==6.0
 regex==2021.7.6
-requests==2.32.1
+requests==2.32.3
 rlp==1.2.0
 semantic-version==2.8.5
 six==1.16.0
