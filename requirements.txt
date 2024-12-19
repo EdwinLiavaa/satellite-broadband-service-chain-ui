@@ -46,7 +46,7 @@ packaging==21.0
 parsimonious==0.10.0
 pathspec==0.12.1
 pluggy==0.13.1
-prompt-toolkit==3.0.43
+prompt-toolkit==3.0.48
 protobuf==4.22.0
 psutil==6.1.0
 py==1.10.0
