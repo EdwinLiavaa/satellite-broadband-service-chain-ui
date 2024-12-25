@@ -32,7 +32,7 @@ inflection==0.5.0
 iniconfig==1.1.1
 ipfshttpclient==0.7.0
 itsdangerous==2.2.0
-Jinja2==3.1.4
+Jinja2==3.1.5
 jsonschema==3.2.0
 lazy-object-proxy==1.10.0
 lru-dict==1.1.7
