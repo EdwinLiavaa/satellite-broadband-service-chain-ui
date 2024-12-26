@@ -67,7 +67,7 @@ pythx==1.7.3
 PyYAML==6.0.2
 regex==2021.7.6
 requests==2.32.3
-rlp==1.2.0
+rlp==4.0.1
 semantic-version==2.8.5
 six==1.16.0
 sortedcontainers==2.4.0
