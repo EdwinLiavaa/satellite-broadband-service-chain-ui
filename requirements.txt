@@ -78,7 +78,7 @@ tqdm==4.66.4
 typing-extensions==3.10.0.0
 urllib3==2.2.2
 varint==1.0.2
-vvm==0.1.0
+vvm==0.3.2
 vyper==0.4.0
 wcwidth==0.2.5
 web3==6.2.0
