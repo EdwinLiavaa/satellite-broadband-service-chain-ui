@@ -48,7 +48,7 @@ pathspec==0.12.1
 pluggy==1.5.0
 prompt-toolkit==3.0.48
 protobuf==4.22.0
-psutil==6.1.0
+psutil==6.1.1
 py==1.11.0
 py-solc-ast==1.2.10
 py-solc-x==1.1.0
