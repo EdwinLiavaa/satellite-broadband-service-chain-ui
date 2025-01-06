@@ -20,7 +20,7 @@ eth-event==1.2.5
 eth-hash==0.5.1
 eth-keyfile==0.5.1
 eth-keys==0.5.1
-eth-rlp==0.2.1
+eth-rlp==2.1.0
 eth-typing==5.0.1
 eth-utils==5.1.0
 execnet==2.1.1
