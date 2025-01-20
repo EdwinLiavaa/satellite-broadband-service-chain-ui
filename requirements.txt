@@ -69,7 +69,7 @@ regex==2021.7.6
 requests==2.32.3
 rlp==4.0.1
 semantic-version==2.10.0
-six==1.16.0
+six==1.17.0
 sortedcontainers==2.4.0
 toml==0.10.2
 tomli==2.2.1
