@@ -75,7 +75,7 @@ toml==0.10.2
 tomli==2.2.1
 toolz==1.0.0
 tqdm==4.67.1
-typing-extensions==3.10.0.0
+typing-extensions==4.12.2
 urllib3==2.3.0
 varint==1.0.2
 vvm==0.3.2
