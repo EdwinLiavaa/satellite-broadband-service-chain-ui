@@ -21,7 +21,7 @@ eth-hash==0.5.1
 eth-keyfile==0.5.1
 eth-keys==0.6.1
 eth-rlp==2.1.0
-eth-typing==5.0.1
+eth-typing==5.1.0
 eth-utils==5.2.0
 execnet==2.1.1
 Flask==3.1.0
