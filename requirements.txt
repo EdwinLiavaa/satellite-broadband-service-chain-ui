@@ -1,6 +1,6 @@
 aiohttp==3.11.11
 appdirs==1.4.4
-asttokens==2.0.4
+asttokens==3.0.0
 async-timeout==5.0.1
 attrs==24.3.0
 base58==2.1.1
