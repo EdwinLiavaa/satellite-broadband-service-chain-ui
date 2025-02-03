@@ -10,7 +10,7 @@ certifi==2024.12.14
 chardet==4.0.0
 charset-normalizer==3.4.1
 click==8.1.8
-cytoolz==0.11.0
+cytoolz==1.0.1
 dataclassy==0.10.4
 eip712==0.2.10
 eth-abi==5.2.0
