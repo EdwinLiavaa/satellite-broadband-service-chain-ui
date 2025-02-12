@@ -65,7 +65,7 @@ python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 pythx==1.7.3
 PyYAML==6.0.2
-regex==2021.7.6
+regex==2024.11.6
 requests==2.32.3
 rlp==4.1.0
 semantic-version==2.10.0
