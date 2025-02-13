@@ -17,7 +17,7 @@ eth-abi==5.2.0
 eth-account==0.13.5
 eth-brownie==1.20.7
 eth-event==1.2.5
-eth-hash==0.5.1
+eth-hash==0.7.1
 eth-keyfile==0.9.1
 eth-keys==0.6.1
 eth-rlp==2.2.0
