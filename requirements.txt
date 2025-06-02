@@ -51,7 +51,7 @@ protobuf==6.31.1
 psutil==7.0.0
 py==1.11.0
 py-solc-ast==1.2.10
-py-solc-x==1.1.0
+py-solc-x==2.0.4
 pycryptodome==3.23.0
 Pygments==2.19.1
 pygments-lexer-solidity==0.7.0
