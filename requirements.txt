@@ -9,7 +9,7 @@ black==25.9.0
 certifi==2025.10.5
 chardet==5.2.0
 charset-normalizer==3.4.3
-click==8.1.8
+click==8.3.0
 cytoolz==1.0.1
 dataclassy==0.10.4
 eip712==0.2.13
