@@ -43,7 +43,7 @@ mypy-extensions==1.1.0
 mythx-models==3.0.0
 netaddr==1.3.0
 packaging==25.0
-parsimonious==0.10.0
+parsimonious==0.11.0
 pathspec==0.12.1
 pluggy==1.6.0
 prompt-toolkit==3.0.52
