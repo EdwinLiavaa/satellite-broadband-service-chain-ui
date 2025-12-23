@@ -56,7 +56,7 @@ pycryptodome==3.23.0
 Pygments==2.19.2
 pygments-lexer-solidity==0.7.0
 PyJWT==2.10.1
-pyparsing==3.2.5
+pyparsing==3.3.0
 pyrsistent==0.20.0
 pytest==9.0.2
 pytest-forked==1.3.0
