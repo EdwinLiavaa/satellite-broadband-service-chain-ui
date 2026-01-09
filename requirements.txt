@@ -83,6 +83,6 @@ vyper==0.4.3
 wcwidth==0.2.14
 web3==7.14.0
 websockets==15.0.1
-Werkzeug==3.1.4
+Werkzeug==3.1.5
 wrapt==2.0.1
 yarl==1.22.0
