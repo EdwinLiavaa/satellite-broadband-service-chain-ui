@@ -72,7 +72,7 @@ semantic-version==2.10.0
 six==1.17.0
 sortedcontainers==2.4.0
 toml==0.10.2
-tomli==2.3.0
+tomli==2.4.0
 toolz==1.1.0
 tqdm==4.67.1
 typing-extensions==4.15.0
