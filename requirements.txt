@@ -81,7 +81,7 @@ varint==1.0.2
 vvm==0.3.2
 vyper==0.4.3
 wcwidth==0.5.3
-web3==7.14.0
+web3==7.14.1
 websockets==16.0
 Werkzeug==3.1.5
 wrapt==2.1.1
